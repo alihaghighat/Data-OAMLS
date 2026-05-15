@@ -122,26 +122,6 @@ Example:
       nasdaq_path: "../Data-OAMLS/NASDAQ_stocks"
       tse_path: "../Data-OAMLS/TSE_stocks"
 
-## Citation
-
-If you use this dataset repository, please cite the associated paper:
-
-    @article{haghighat_oamls,
-      title   = {OAMLS: Objective-Aware Meta-Learning System for Joint Configuration Selection in Financial Time Series Forecasting},
-      author  = {Haghighat, Ali and Moosavi, Mohammad R.},
-      journal = {Expert Systems with Applications},
-      year    = {2026},
-      note    = {Manuscript under review}
-    }
-
-## Related Repository
-
-The source code for the OAMLS framework will be provided separately.
-
-Recommended repository names:
-
-- `OAMLS`
-- `OAMLS-Code`
 
 ## Data Availability
 
@@ -151,20 +131,19 @@ The NASDAQ dataset contains historical market data from publicly available finan
 
 The TSE dataset contains historical daily stock data collected from publicly available Tehran Stock Exchange sources.
 
-## License
-
-Please check the license file before using this repository.
-
-If no license is provided, the datasets should be considered available for academic and non-commercial research use only until a formal license is added.
 
 ## Contact
 
-For questions regarding the dataset or the OAMLS paper, please contact:
+For questions, feedback, or issues related to the datasets or the OAMLS paper, please contact:
+
+## Contact
+
+For questions regarding the datasets, reproducibility, or the OAMLS paper, please contact the authors:
 
 **Ali Haghighat**  
 Shiraz University  
-Email: haqiqat@shirazu.ac.ir
+Email: [haqiqat@shirazu.ac.ir](mailto:haqiqat@shirazu.ac.ir)
 
 **Mohammad R. Moosavi**  
 Shiraz University  
-Email: smmosavi@shirazu.ac.ir
+Email: [smmosavi@shirazu.ac.ir](mailto:smmosavi@shirazu.ac.ir)
