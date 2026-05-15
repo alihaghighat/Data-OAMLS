@@ -134,10 +134,6 @@ The TSE dataset contains historical daily stock data collected from publicly ava
 
 ## Contact
 
-For questions, feedback, or issues related to the datasets or the OAMLS paper, please contact:
-
-## Contact
-
 For questions regarding the datasets, reproducibility, or the OAMLS paper, please contact the authors:
 
 **Ali Haghighat**  
